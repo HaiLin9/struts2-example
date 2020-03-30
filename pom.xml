@@ -13,6 +13,7 @@
         <module>coding-actions</module>
         <module>form-processing</module>
         <module>form-validation</module>
+        <module>message-resource-files</module>
     </modules>
     <packaging>pom</packaging>
 
