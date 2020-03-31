@@ -9,6 +9,7 @@
         <module name="helloworld" />
         <module name="form-processing" />
         <module name="message-resource-files" />
+        <module name="exception-handling" />
         <module name="using-tags" />
         <module name="form-validation" />
         <module name="coding-actions" />
