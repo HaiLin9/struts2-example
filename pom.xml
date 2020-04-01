@@ -15,6 +15,7 @@
         <module>form-validation</module>
         <module>message-resource-files</module>
         <module>exception-handling</module>
+        <module>form-tags</module>
     </modules>
     <packaging>pom</packaging>
 

@@ -10,6 +10,7 @@
         <module name="form-processing" />
         <module name="message-resource-files" />
         <module name="exception-handling" />
+        <module name="form-tags" />
         <module name="using-tags" />
         <module name="form-validation" />
         <module name="coding-actions" />
