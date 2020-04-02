@@ -17,6 +17,7 @@
         <module>exception-handling</module>
         <module>form-tags</module>
         <module>validation-using-xml</module>
+        <module>control-tag</module>
     </modules>
     <packaging>pom</packaging>
 

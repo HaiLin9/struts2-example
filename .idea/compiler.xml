@@ -9,6 +9,7 @@
         <module name="validation-using-xml" />
         <module name="helloworld" />
         <module name="form-processing" />
+        <module name="control-tag" />
         <module name="message-resource-files" />
         <module name="exception-handling" />
         <module name="form-tags" />
